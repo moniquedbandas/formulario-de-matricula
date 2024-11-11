@@ -23,6 +23,7 @@ label + .radio-wrapper {
   & input,
   & input:focus,
   & input:hover {
+    /* all:unset tira todas as informações do input */
     all: unset;
     position: absolute;
     inset: 0;
